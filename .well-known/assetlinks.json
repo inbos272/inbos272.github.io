@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "com.simstudio.alkkago",
-        "sha256_cert_fingerprints": ["10:B7:AD:55:BF:86:E2:4E:A5:F2:F1:AF:61:1C:EF:58:0B:23:CB:78:08:40:43:3E:13:33:AD:A2:B1:51:D0:15"]
+        "package_name": "com.Simstudio.Alkkago",
+        "sha256_cert_fingerprints": ["54:11:EA:96:24:72:92:12:85:EE:74:89:C7:76:3C:E4:09:F0:1C:20:0B:14:CE:FE:C2:C4:60:5F:9E:86:82:58"]
       }
     }]
